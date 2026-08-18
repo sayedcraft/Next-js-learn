@@ -1,0 +1,13 @@
+import Title from '@/Component/Title';
+import React from 'react';
+
+const Setting = () => {
+    return (
+        <div>
+            <Title>Setting</Title>
+            <p className='mt-5'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam nisi, blanditiis sequi consequuntur, beatae amet rerum atque nam assumenda quasi nostrum et facere. Laboriosam officiis accusamus repudiandae obcaecati illum. Harum molestias eaque nisi quae nesciunt repellat! Aspernatur, aperiam nisi hic tempora neque beatae distinctio asperiores eius tempore illo molestiae reiciendis explicabo officia, molestias quisquam laborum placeat, voluptatum in! Vitae, quae ex iste libero tenetur natus cum commodi esse facilis laborum accusantium ratione consequuntur aperiam corporis non id praesentium nesciunt dolorum provident ut at quibusdam neque. Asperiores amet, eum velit excepturi id quod dolore expedita nobis nisi, earum consequuntur quibusdam necessitatibus nesciunt molestias sapiente perferendis tempora cumque, rerum accusamus est officia voluptates fugit! Quasi debitis fugit, veniam facere aspernatur eum eius dolorum reprehenderit quidem velit nam cum in! Totam sint eos perspiciatis! Vitae voluptatibus, reiciendis quasi blanditiis totam excepturi cumque provident quo omnis. Optio perspiciatis enim vel earum recusandae voluptatibus inventore doloribus beatae atque ullam. Eum, quod voluptate nihil iure dolorem corrupti totam laudantium expedita, tempore laboriosam magnam rem dicta repellat. Eveniet nostrum assumenda natus hic tempora nisi, optio aspernatur veniam, quisquam, nobis minima sapiente dolore libero! Cum commodi at, harum incidunt tenetur porro? Nesciunt deserunt sed minima, recusandae reiciendis similique ducimus. Quia officia magnam magni harum, consequatur quis accusamus incidunt sapiente. Dolores sequi tenetur temporibus aspernatur. Dicta sed libero labore fugit doloremque odit temporibus consequuntur quaerat ducimus facilis laborum consequatur odio itaque numquam aspernatur tempora natus expedita quia nisi dolore vel aperiam praesentium, soluta illum. Tenetur quibusdam consequuntur mollitia quis voluptatem eligendi ipsam provident ipsa. Adipisci quam fugiat officiis necessitatibus enim. Animi, fuga autem. At voluptatibus, cumque cupiditate eligendi nihil asperiores quas nobis officia ullam vel ut eum mollitia omnis quaerat inventore hic neque facere voluptate voluptates porro. Vel adipisci aperiam natus, eveniet eligendi laboriosam error alias enim corporis fugiat.</p>
+        </div>
+    );
+};
+
+export default Setting;
